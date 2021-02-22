@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 LO3 GitHub Related
+ZCZC W00 10 LO3 GitHub initial setup
 ZCZC W00 13 L22 YouTube OS Primer
 ZCZC W00 65 LO2 First Zoom Meeting
+ZCZC W00 2 LO3 _config edit to remove theming
