@@ -5,3 +5,4 @@ ZCZC W00 10 LO3 GitHub initial setup
 ZCZC W00 13 L22 YouTube OS Primer
 ZCZC W00 65 LO2 First Zoom Meeting
 ZCZC W00 2 LO3 _config edit to remove theming
+ZCZC W00 120 L21 installation of VBOX, Debian9, and (failed) SSH attempt
