@@ -6,3 +6,7 @@ ZCZC W00 13 L22 YouTube OS Primer
 ZCZC W00 65 LO2 First Zoom Meeting
 ZCZC W00 2 LO3 _config edit to remove theming
 ZCZC W00 120 L21 installation of VBOX, Debian9, and (failed) SSH attempt
+ZCZC W00 30 L10 fixed readme
+ZCZC W00 15 L09 tanya-tanya asdos
+ZCZC W00 65 L06 read reference book
+ZCZC W00 15 L01 popquiz
