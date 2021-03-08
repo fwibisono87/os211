@@ -10,3 +10,7 @@ ZCZC W00 30 L10 fixed readme
 ZCZC W00 15 L09 tanya-tanya asdos
 ZCZC W00 65 L06 read reference book
 ZCZC W00 15 L01 popquiz
+ZCZC W01 65 L02 Zoom Meeting
+ZCZC W01 45 L21 play around with debian VBOX
+ZCZC W01 60 L06 read os book
+ZCZC W01 30 L03 create top10
