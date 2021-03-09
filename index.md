@@ -1,10 +1,7 @@
----
-layout: "layout"
----
 
-#Hello!
+# Hello!
 
-##This is my OS211 Repo and I am Francis.
+## This is my OS211 Repo and I am Francis.
 
 
 1. [Week 01](w01.md)
@@ -12,4 +9,4 @@ layout: "layout"
 
 <i>Suum cuiqe</i>
 
-[Home](GitHubPages/) || [Report](REPORT/)
+[Home](.../) || [Report](REPORT/)
