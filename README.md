@@ -1,3 +1,3 @@
 Hello and welcome to my OS211 Repository!
 
-[Week 01](W01.md)
+[Week 01](w01.md)
