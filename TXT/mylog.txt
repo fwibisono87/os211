@@ -14,3 +14,12 @@ ZCZC W01 65 L02 Zoom Meeting
 ZCZC W01 45 L21 play around with debian VBOX
 ZCZC W01 60 L06 read os book
 ZCZC W01 30 L03 create top10
+ZCZC W02 65 L02 Zoom Meeting
+ZCZC W02 112 L21 fixing virtual machine and transfer to linux host
+ZCZC W02 60 L06 Read OS Book
+ZCZC W02 30 LO3 create top 10
+ZCZC W02 30 L12 wrap up w02's assignment
+ZCZC W02 45 L23 help a friend wrap up w02
+ZCZC w02 30 L22 watch materials on youtube
+ZCZC W02 45 L08 emergency pc rebuild due to catasthropic hardware failure (the system disk died)
+ZCZC W02 30 L08 trying to code in bash
