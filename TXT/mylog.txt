@@ -23,3 +23,8 @@ ZCZC W02 45 L23 help a friend wrap up w02
 ZCZC w02 30 L22 watch materials on youtube
 ZCZC W02 45 L08 emergency pc rebuild due to catasthropic hardware failure (the system disk died)
 ZCZC W02 30 L08 trying to code in bash
+ZCZC W03 20 L03 try to understand what the quack i need to do this week
+ZCZC W03 120 L12 finish w03 assignment
+ZCZC W03 45 L23 help friends finish w03
+ZCZC W03 30 L22 watch materials on youtube
+ZCZC W03 60 L06 read os book
