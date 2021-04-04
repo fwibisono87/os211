@@ -33,4 +33,8 @@ ZCZC W04 79 L12 finish w04 assignment
 ZCZC W04 30 L23 help others finish wo4
 ZCZC W04 60 L22 watch indian tutorials
 ZCZC W04 30 L06 read os book
+ZCZC W05 240 L22 watch online lectures
+ZCZC W05 50 L06 read os book
+ZCZC W05 30 L12 do w05 stuff
+ZCZC w05 15 L21 archlinux minimim ram (yes it actually goes all the way to 100mb)
 
