@@ -37,4 +37,8 @@ ZCZC W05 240 L22 watch online lectures
 ZCZC W05 50 L06 read os book
 ZCZC W05 30 L12 do w05 stuff
 ZCZC w05 15 L21 archlinux minimim ram (yes it actually goes all the way to 100mb)
+ZCZC w06 25 L12 finish w06 stuff
+ZCZC W06 90 L22 watch os videos on yt
+ZCZC W06 30 L06 read os book
+ZCZC W06 30 L21 migrate and backup the vbox somewhere safe (not falling for that again)
 
