@@ -10,6 +10,7 @@
 4. [Week 04](w04.md)
 5. [Week 05](w05.md)
 6. [Week 06](w06.md)
+7. [Week 07](w07.md)
 
 <i>Suum cuiqe</i>
 

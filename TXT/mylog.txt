@@ -41,4 +41,8 @@ ZCZC w06 25 L12 finish w06 stuff
 ZCZC W06 90 L22 watch os videos on yt
 ZCZC W06 30 L06 read os book
 ZCZC W06 30 L21 migrate and backup the vbox somewhere safe (not falling for that again)
-
+ZCZC W07 90 L17 w07 main task speedrun any% (thanks theo, mustafa & dummy)
+ZCZC W07 100 L22 watch os videos on yt
+ZCZC W07 65 L02 class
+ZCZC W07 2 L09 vbox demo
+ZCZC W07 30 L99 lfs on raspi letsgoooooo (failed tho but whatevs. at least i didn't kill it)
