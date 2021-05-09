@@ -46,3 +46,7 @@ ZCZC W07 100 L22 watch os videos on yt
 ZCZC W07 65 L02 class
 ZCZC W07 2 L09 vbox demo
 ZCZC W07 30 L99 lfs on raspi letsgoooooo (failed tho but whatevs. at least i didn't kill it)
+ZCZC W08 240 L18 do lfs config
+ZCZC W08 100 L22 watch lfs tutorial
+ZCZC W08 65 L02 class
+
