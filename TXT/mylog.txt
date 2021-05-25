@@ -1,0 +1,53 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 10 LO3 GitHub initial setup
+ZCZC W00 13 L22 YouTube OS Primer
+ZCZC W00 65 LO2 First Zoom Meeting
+ZCZC W00 2 LO3 _config edit to remove theming
+ZCZC W00 120 L21 installation of VBOX, Debian9, and (failed) SSH attempt
+ZCZC W00 30 L10 fixed readme
+ZCZC W00 15 L09 tanya-tanya asdos
+ZCZC W00 65 L06 read reference book
+ZCZC W00 15 L01 popquiz
+ZCZC W01 65 L02 Zoom Meeting
+ZCZC W01 45 L21 play around with debian VBOX
+ZCZC W01 60 L06 read os book
+ZCZC W01 30 L03 create top10
+ZCZC W02 65 L02 Zoom Meeting
+ZCZC W02 112 L21 fixing virtual machine and transfer to linux host
+ZCZC W02 60 L06 Read OS Book
+ZCZC W02 30 LO3 create top 10
+ZCZC W02 30 L12 wrap up w02's assignment
+ZCZC W02 45 L23 help a friend wrap up w02
+ZCZC w02 30 L22 watch materials on youtube
+ZCZC W02 45 L08 emergency pc rebuild due to catasthropic hardware failure (the system disk died)
+ZCZC W02 30 L08 trying to code in bash
+ZCZC W03 20 L03 try to understand what the quack i need to do this week
+ZCZC W03 120 L12 finish w03 assignment
+ZCZC W03 45 L23 help friends finish w03
+ZCZC W03 30 L22 watch materials on youtube
+ZCZC W03 60 L06 read os book
+ZCZC W04 60 L21 vbox troubleshooting
+ZCZC W04 79 L12 finish w04 assignment
+ZCZC W04 30 L23 help others finish wo4
+ZCZC W04 60 L22 watch indian tutorials
+ZCZC W04 30 L06 read os book
+ZCZC W05 240 L22 watch online lectures
+ZCZC W05 50 L06 read os book
+ZCZC W05 30 L12 do w05 stuff
+ZCZC w05 15 L21 archlinux minimim ram (yes it actually goes all the way to 100mb)
+ZCZC w06 25 L12 finish w06 stuff
+ZCZC W06 90 L22 watch os videos on yt
+ZCZC W06 30 L06 read os book
+ZCZC W06 30 L21 migrate and backup the vbox somewhere safe (not falling for that again)
+ZCZC W07 90 L17 w07 main task speedrun any% (thanks theo, mustafa & dummy)
+ZCZC W07 100 L22 watch os videos on yt
+ZCZC W07 65 L02 class
+ZCZC W07 2 L09 vbox demo
+ZCZC W07 30 L99 lfs on raspi letsgoooooo (failed tho but whatevs. at least i didn't kill it)
+ZCZC W08 240 L18 do lfs config
+ZCZC W08 100 L22 watch lfs tutorial
+ZCZC W08 65 L02 class
+ZCZC W09 250 L19 ga keburu do w09 :(
+ZCZC W09 100 L22 lfs tutorial
